@@ -6,7 +6,7 @@ Database on trophic interactions of Neotropical mammalian carnivores. Info on th
 Find the original article [here](https://doi.org/10.1111/mam.12266).
 
 <p align="center"> 
-<img width="700" src="/images/GA.jpeg">
+<img width="800" src="/images/GA.jpeg">
 </p> 
 
 
