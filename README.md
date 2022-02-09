@@ -1,5 +1,5 @@
 # neo_carnivora_diet repo
-## Data from *The geography of diet variation in Neotropical Carnivores
+## Data from *The geography of diet variation in Neotropical Carnivores*
 
 Database on trophic interactions of Neotropical mammalian carnivores. Info on the diets of 39 (37 native and two domestic) terrestrial Neotropical Carnivora species.
 
@@ -21,6 +21,8 @@ Run in R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out".
 1. [Data](https://github.com/liviarcruzz/neo_carnivora_diet/blob/main/Neo_Carnivora_Diet_Database_v1.0.csv)
 
 ## Reference
+
+Cruz, L. R., Muylaert, R. L., Galetti, M., & Pires, M. M. (2022). The geography of diet variation in Neotropical Carnivora. Mammal Review, 52(1), 112-128.
 
 ## Abstract
 
