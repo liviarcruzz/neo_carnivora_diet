@@ -5,9 +5,7 @@ Database on trophic interactions of Neotropical mammalian carnivores. Info on th
 
 ## Reference
 
-Cruz, L. R., Muylaert, R. L., Galetti, M., & Pires, M. M. (2022). The geography of diet variation in Neotropical Carnivora. Mammal Review, 52(1), 112-128.
-
-Find the original article [here](https://doi.org/10.1111/mam.12266).
+[Cruz, L. R., Muylaert, R. L., Galetti, M., & Pires, M. M. (2022). The geography of diet variation in Neotropical Carnivora. Mammal Review, 52(1), 112-128.](https://doi.org/10.1111/mam.12266).
 
 ## Graphical abstract
 
