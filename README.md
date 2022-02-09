@@ -1,9 +1,14 @@
-# neo_carnivora_diet
+# neo_carnivora_diet repo
 ## Data from *The geography of diet variation in Neotropical Carnivores
 
 Database on trophic interactions of Neotropical mammalian carnivores. Info on the diets of 39 (37 native and two domestic) terrestrial Neotropical Carnivora species.
 
 Find the original article [here](https://doi.org/10.1111/mam.12266).
+
+<p align="center"> 
+<img width="550" src="/images/GA.jpeg">
+</p> 
+
 
 Authors: Lívia R. Cruz, Renata L. Muylaert, Mauro Galetti, Mathias M. Pires 
 
